@@ -10,10 +10,8 @@
 
 - [o]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 최종 결과물이 첨부되었으며, 루브릭 기준을 만족합니다.
-    - 데이터를 이해하는 과정
+    - 데이터를 이해하는 과정 및 모델 평가가 잘 이루어졌다.
     - ![image](https://github.com/6dongh9/first-repository_LGW/assets/141113666/f02aeb24-39c2-449e-9afa-09e4a4890b4c)
-    - 모델 평가
-    - ![image](https://github.com/6dongh9/first-repository_LGW/assets/141113666/046514d5-1160-4c7a-8bea-b4368190c283)
 
     
 - [×]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
