@@ -8,10 +8,12 @@
 
 🔑 **PRT(Peer Review Template)**
 
-- [o]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
+- [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
     - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부
+    다 잘됬는데 점수가 ㅜㅜ
+
 <img width="597" alt="스크린샷 2023-09-19 오후 4 47 05" src="https://github.com/woongs9/first-repository/assets/74888190/0313e9fd-bf63-41d9-99ee-719aa5ddbba9">
 <img width="587" alt="스크린샷 2023-09-19 오후 4 47 20" src="https://github.com/woongs9/first-repository/assets/74888190/371e5051-caaf-4be3-bf2b-2ca9f08d378c">
 
